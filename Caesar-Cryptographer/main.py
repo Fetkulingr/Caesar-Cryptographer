@@ -54,7 +54,7 @@ class Sezar(Frame):
         self.RESULT.insert(0, translation)
 
 if __name__ == "__main__":
-    # Интерфейс программы
+   # Создание главного окна
     root = Tk()
     root.title("Шифр Цезаря")
     root["bg"]="#008000"
