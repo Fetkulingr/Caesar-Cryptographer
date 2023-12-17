@@ -1,3 +1,11 @@
+'''
+This module make
+
+Athor: Fetkulin Grigory, Fetkulin.G.R@yandex.ru
+Starting 2022/09/01
+Ending 2022/11/05
+
+'''
 from tkinter import *
 from tkinter import messagebox as mb
 class Sezar(Frame):
